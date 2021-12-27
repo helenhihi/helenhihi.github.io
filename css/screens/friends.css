@@ -1,7 +1,7 @@
 #friends-display-link {
   text-align: center;
   display: block;
-  background-color: #fafafa;
+  background-color: var(--yellow);
   padding: 15px 0px;
   font-size: 18px;
   margin-bottom: 15px;
@@ -63,21 +63,6 @@
   margin-left: 6px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @keyframes hideSplashScreen {
   from {
     opacity: 1;
@@ -87,7 +72,7 @@
     visibility: hidden;
   }
 }
-/* 
+
 #splash-screen {
   background-color: var(--yellow);
   position: absolute;
@@ -100,4 +85,4 @@
   font-size: 132px;
   animation: hideSplashScreen 0.3s ease-in-out forwards;
   animation-delay: 2s;
-} */
+}

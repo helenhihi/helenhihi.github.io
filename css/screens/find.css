@@ -104,7 +104,7 @@
     transform: none;
   }
   50% {
-    color: rgb(163, 41, 235);
+    color: blueviolet;
     transform: scale(2);
   }
   100% {

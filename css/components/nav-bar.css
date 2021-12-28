@@ -6,7 +6,7 @@
   padding: 20px 50px;
   box-sizing: border-box;
   border-top: 1px solid rgba(77, 139, 209, 0.3);
-  background-color: rgba(46, 134, 235, 0.548);
+  background-color: var(--blue);
 }
 
 .nav__list {
